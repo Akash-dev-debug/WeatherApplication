@@ -1,0 +1,99 @@
+
+{
+  "cod": "200",
+  "message": 0.0,
+  "cnt": 2,
+  "list": [
+    {
+      "dt": 1793510000,
+      "main": {
+        "temp": 28.5,
+        "feels_like": 29.1,
+        "temp_min": 27.8,
+        "temp_max": 29.2,
+        "pressure": 1012,
+        "humidity": 45,
+        "sea_level": 1012,
+        "grnd_level": 989
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01d"
+        }
+      ],
+      "clouds": {
+        "all": 0
+      },
+      "wind": {
+        "speed": 3.6,
+        "deg": 250,
+        "gust": 5.2
+      },
+      "visibility": 10000,
+      "pop": 0.1,
+      "rain": {
+        "3h": 0.2
+      },
+      "snow": null,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2026-11-01 12:00:00"
+    },
+    {
+      "dt": 1793520800,
+      "main": {
+        "temp": 26.0,
+        "feels_like": 26.5,
+        "temp_min": 25.5,
+        "temp_max": 26.8,
+        "pressure": 1013,
+        "humidity": 55,
+        "sea_level": 1013,
+        "grnd_level": 990
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02n"
+        }
+      ],
+      "clouds": {
+        "all": 20
+      },
+      "wind": {
+        "speed": 4.2,
+        "deg": 260,
+        "gust": 6.0
+      },
+      "visibility": 10000,
+      "pop": 0.8,
+      "rain": {
+        "3h": 1.5
+      },
+      "snow": null,
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2026-11-01 15:00:00"
+    }
+  ],
+  "city": {
+    "id": 1273294,
+    "name": "Delhi",
+    "coord": {
+      "lat": 28.6139,
+      "lon": 77.2090
+    },
+    "country": "IN",
+    "population": 10000000,
+    "timezone": 19800,
+    "sunrise": 1793490000,
+    "sunset": 1793530000
+  }
+}

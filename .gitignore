@@ -1,0 +1,33 @@
+
+# Maven build output
+target/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.key
+config/local.properties
+
+# Java compiled files
+*.class
+*.jar
+
+# IDE files
+.idea/
+*.iml
+
+# VS Code local workspace settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Application logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
